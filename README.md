@@ -1,16 +1,34 @@
-### Hi there 👋
+<!-- Profile -->
+<div align="justify">
+<samp>╔══════════════════════════════════════════════════════════════════۞═════════════════════════════════════════════════════════════════╗</samp>
+<!-- Profile -->
+  <p align="center">
+    <samp>
+      <b>
+        ✰Hi there✰
+      <br>      
+        I am Rodrigo, a Data Engineering student in Artificial Intelligence, I love being self-taught in new technology tools and challenges with my Linux machine.
+      </b>
+      <br>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DF7A6&width=435&lines=I+like+ducks++%F0%9F%A6%86+but+not+Windows%E2%9D%8C" alt="Typing SVG" /></a>
+      <br>
+      <b>
+        ~ Rodrigo Lendinez Ruiz ~
+      </b>
+    </samp>
+  </p>
+<samp>╚══════════════════════════════════════════════════════════════════۞═════════════════════════════════════════════════════════════════╝</samp>
 
-<!--
-**BlanckSpeed/BlanckSpeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<details>
+<summary><samp><b>More Info</b></samp></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2></h2><br>
+
+<!-- Contact Me -->
+<p align="center">
+  <samp>  
+    You can reach me at <a href="https://www.linkedin.com/in/rodrigolendinez/">LinkedIn</a>
+  </samp>
+</p>
