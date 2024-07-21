@@ -7,7 +7,7 @@
       <b>
         ✰Hi there✰
       <br>      
-        I am Rodrigo, a Data Engineering in Artificial Intelligence, I love being self-taught in new technology tools and challenges with my Linux machine.
+        I am Rodrigo, a Data Engineer in Artificial Intelligence, I love being self-taught in new technology tools and challenges with my Linux machine.
       </b>
       <br>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DF7A6&width=435&lines=I+like+ducks++%F0%9F%A6%86+but+not+Windows%E2%9D%8C" alt="Typing SVG" /></a>
