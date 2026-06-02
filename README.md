@@ -31,6 +31,6 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>  
-    You can reach me at <a href="https://www.linkedin.com/in/rodrigolruiz/">LinkedIn</a>
+    You can reach me at <a href="https://www.linkedin.com/in/rodrigolruiz?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>
   </samp>
 </p>
